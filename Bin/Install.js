@@ -3,11 +3,11 @@ const Service = require('node-windows').Service;
 const svc = new Service({
   name: 'Server Manager',
   description: 'Gerenciamento de processos do servidor',
-  script: 'C:\\caminho\\para\\o\\seu\\arquivo.js'
+  script: './Install.js'
 });
 
 svc.on('install', () => {
-  svc.start();
+  console.log('Serviço instalado com sucesso.');
 });
 
 svc.install();

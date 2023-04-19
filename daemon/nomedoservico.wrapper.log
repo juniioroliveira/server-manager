@@ -1,0 +1,2 @@
+2023-04-19 12:57:22 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\Users\Junior Oliveira\Documents\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js" --file "C:\Users\Junior Oliveira\Documents\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Server.js" --scriptoptions= --log "NomeDoServico wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-19 12:57:22 - Started 13176
