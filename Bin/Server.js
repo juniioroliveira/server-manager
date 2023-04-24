@@ -1,3 +1,4 @@
+const Initialize = require('../App');
 const Service = require('node-windows').Service;
 
 const svc = new Service({
@@ -7,6 +8,7 @@ const svc = new Service({
 });
 
 svc.on('install', () => {
+  console.log('Serviço iniciado em dev.');
   svc.start();
 });
 
@@ -14,4 +16,11 @@ svc.on('start', () => {
   console.log('Serviço iniciado.');
 });
 
+svc.on('stop', () => {
+  console.log('Serviço parado.');
+});
+
 svc.install();
+
+console.log('Serviço iniciado.');
+Initialize();
