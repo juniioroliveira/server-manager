@@ -1,5 +1,7 @@
 const Initialize = require('../App');
 const Service = require('node-windows').Service;
+const color = require("colors");
+const wss = require('./Websocket');
 
 const svc = new Service({
   name: 'NomeDoServico',
@@ -23,4 +25,7 @@ svc.on('stop', () => {
 svc.install();
 
 console.log('Serviço iniciado.');
+
+const websocket = wss;
+ 
 Initialize();

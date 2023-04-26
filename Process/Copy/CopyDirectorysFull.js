@@ -1,59 +1,101 @@
 const fs = require('fs');
 const path = require('path');
+const { addCredential } = require('../Auth/Credentials');
+const records = require('../../Robots/SyncFiles/AccesStage/Records');
 
-function Copy(source, targets) {
 
-  // Verifica se o diretório de origem existe
+function CopyDirectorysFull(props){
+  try{
+    const source = props?.directorys?.origin?.path;
+    const destinations = props?.directorys?.destination;
+    const targets = destinations ? destinations.map(obj => obj.path) : [];
+  
+    // Verifica se diretórios precisam de credenciais
+    CheckCredentials(props?.directorys?.origin, destinations);
+  
+    Copy(source, targets, props?.action?.move, props?.name);
+    
+
+  }catch(err){
+    console.log(`Erro na verificação de rotina: ${err}`)
+  }
+}
+
+
+function Copy(source, targets, action, name) {
+
   if (!fs.existsSync(source)) {
-    console.error(`O diretório ${source} não existe`);
+    console.log(`O diretório ${source} não existe`.red);
     return;
   }
 
-  // Lê o diretório de origem
   const files = fs.readdirSync(source);
+  if (files.length === 0) {
+    console.log(`Nenhum arquivo disponível no diretório:`.yellow, source.gray);
+    return;
+  }
 
-  // Inicializa o contador de arquivos copiados
-  let completed = 0;
+  // Filtra apenas os arquivos (exclui as pastas)
+  const filesOnly = files.filter(file => {
+    if(!fs.lstatSync(path.join(source, file)).isDirectory()){
+      if(![file].includes(records)){
+        records.setRecordsReceived(file)
+      }
+    }
+  });
 
-  // Percorre cada arquivo no diretório de origem
+
   for (const file of files) {
     const sourcePath = path.join(source, file);
 
-    // Verifica se é um diretório
     if (fs.lstatSync(sourcePath).isDirectory()) {
-
-      // Cria um array de diretórios de destino correspondentes
       const targetDirs = targets.map(target => path.join(target, file));
-
-      // Chamada recursiva para copiar o diretório para cada destino
-      Copy(sourcePath, targetDirs);
-
+      Copy(sourcePath, targetDirs, action);
     } else {
+      let copiedToAll = true;
 
-      // Percorre cada diretório de destino
       for (const target of targets) {
-
-        // Verifica se o diretório de destino existe
         if (!fs.existsSync(target)) {
+          console.log(`O diretório '${target.gray}' não existe, criando...`.yellow);
           fs.mkdirSync(target, { recursive: true });
         }
 
         const targetPath = path.join(target, file);
 
-        // Copia o arquivo para o diretório de destino
+        console.log(`Copiando arquivo ${sourcePath.gray} para ${targetPath.gray}...`);
         fs.copyFileSync(sourcePath, targetPath);
-        completed++;
 
-        // Verifica se o arquivo foi copiado para todos os diretórios
-        if (completed === targets.length) {
-
-          // Exclui o arquivo da origem após copiar para o destino
-          fs.unlinkSync(sourcePath);   
-          
+        if (!fs.existsSync(targetPath)) {
+          copiedToAll = false;
         }
       }
+
+      if (copiedToAll && action) {
+        console.log(`Arquivo ${sourcePath.gray} copiado para todos os diretórios, excluindo da origem...`);
+        fs.unlinkSync(sourcePath);
+      }
+    }
+  }
+
+  // console.log(`Fim da cópia do diretório ${source.gray} para os diretórios: ${targetDirs.gray}`.green);
+}
+
+function CheckCredentials(origin, destinate){
+
+  if(origin?.authenticate){
+    // console.log(`Origem (${origin.path}) com autenticação obrigatória`)
+    addCredential(origin?.credential?.server, origin?.credential?.user, origin?.credential?.password)
+  }
+
+  if(destinate)
+  for (const target of destinate){
+    // console.log('teste'.yellow, origin?.authenticate, target?.authenticate)
+    if(target?.authenticate){
+      // console.log(`Destino (${target.path}) com autenticação obrigatória`)
+      addCredential(target?.credential?.server, target?.credential?.user, target?.credential?.password)
+
     }
   }
 }
 
-module.exports = Copy;
+module.exports = { CopyDirectorysFull };

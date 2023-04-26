@@ -1,12 +1,19 @@
-const Copy = require("../../../Process/Copy/CopyDirectorysFull");
-const Props = require("./Props");
+const { CopyDirectorysFull } = require("../../../Process/Copy/CopyDirectorysFull");
+const { Props } = require("./Props");
+const Notify = require('./Notify');
 
-function AccessStage(){
 
-    Copy('C:\\Users\\junio\\OneDrive\\Área de Trabalho\\Nova pasta', ['C:\\Users\\junio\\OneDrive\\Área de Trabalho\\Copy1', 'C:\\Users\\junio\\OneDrive\\Área de Trabalho\\Copy2']);
+async function Initialize(){    
     
+    Notify();
+    setInterval(AccessStage, 10000);
 }
 
-module.exports = AccessStage;
+async function AccessStage(){
+    
+    CopyDirectorysFull(Props);
+}
+
+module.exports = Initialize;
 
 
