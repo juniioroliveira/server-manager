@@ -10,6 +10,7 @@ function Initialize(){
 }
 
 function notify(){
+    
 
     if(JSON.stringify(recordsCache) !== JSON.stringify(records.getRecordsReceivedValues())){
         recordsCache = records.getRecordsReceivedValues();

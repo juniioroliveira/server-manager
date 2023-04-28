@@ -20,7 +20,7 @@ const Props = {
         destination: [
             {
                 authenticate: false,
-                path: 'C:\\Users\\junio\\OneDrive\\Área de Trabalho\\Backup'
+                path: 'C:\\Users\\junio\\OneDrive\\Área de Trabalho\\BackupRobo'
             },
 
         ]

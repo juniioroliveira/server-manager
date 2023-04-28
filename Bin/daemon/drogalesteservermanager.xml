@@ -1,0 +1,31 @@
+<service>
+	<id>drogalesteservermanager.exe</id>
+	<name>Drogaleste - Server Manager</name>
+	<description>Gerenciador de serviços e integrações</description>
+	<executable>C:\Program Files\nodejs\node.exe</executable>
+	<argument>--harmony</argument>
+	<argument>C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Bin\Server.js</argument>
+	<argument>--scriptoptions=</argument>
+	<argument>--log</argument>
+	<argument>Drogaleste - Server Manager wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.25</argument>
+	<argument>--wait</argument>
+	<argument>1</argument>
+	<argument>--maxrestarts</argument>
+	<argument>3</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>undefined</argument>
+	<logmode>rotate</logmode>
+	<stoptimeout>30sec</stoptimeout>
+	<serviceaccount>
+		<domain>JUNIOR-NOTEBOOK</domain>
+		<user>LocalSystem</user>
+		<password></password>
+	</serviceaccount>
+	<workingdirectory>C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager</workingdirectory>
+</service>

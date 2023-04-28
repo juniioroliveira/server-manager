@@ -1,0 +1,355 @@
+2023-04-27 18:53:31 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js --file C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Bin\Server.js --scriptoptions= --log "Drogaleste - Server Manager wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-27 18:53:31 - Started 8544
+2023-04-27 18:54:53 - Stopping drogalesteservermanager.exe
+2023-04-27 18:54:53 - ProcessKill 8544
+2023-04-27 18:54:53 - Found child process: 19056 Name: conhost.exe
+2023-04-27 18:54:53 - Found child process: 7032 Name: node.exe
+2023-04-27 18:54:53 - Stopping process 19056
+2023-04-27 18:54:53 - Send SIGINT 19056
+2023-04-27 18:54:53 - SIGINT to 19056 failed - Killing as fallback
+2023-04-27 18:54:53 - Stopping process 7032
+2023-04-27 18:54:53 - Send SIGINT 7032
+2023-04-27 18:54:53 - SIGINT to 7032 failed - Killing as fallback
+2023-04-27 18:54:53 - Stopping process 8544
+2023-04-27 18:54:53 - Send SIGINT 8544
+2023-04-27 18:54:53 - SIGINT to 8544 failed - Killing as fallback
+2023-04-27 18:54:53 - Finished drogalesteservermanager.exe
+2023-04-27 18:54:54 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js --file C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Bin\Server.js --scriptoptions= --log "Drogaleste - Server Manager wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-27 18:54:54 - Started 10744
+2023-04-27 18:57:44 - Stopping drogalesteservermanager.exe
+2023-04-27 18:57:44 - ProcessKill 10744
+2023-04-27 18:57:45 - Found child process: 20420 Name: conhost.exe
+2023-04-27 18:57:45 - Found child process: 5236 Name: node.exe
+2023-04-27 18:57:45 - Stopping process 20420
+2023-04-27 18:57:45 - Send SIGINT 20420
+2023-04-27 18:57:45 - SIGINT to 20420 failed - Killing as fallback
+2023-04-27 18:57:45 - Found child process: 16520 Name: cmd.exe
+2023-04-27 18:57:45 - Stopping process 16520
+2023-04-27 18:57:45 - Process 16520 is already stopped
+2023-04-27 18:57:45 - Stopping process 5236
+2023-04-27 18:57:45 - Send SIGINT 5236
+2023-04-27 18:57:45 - SIGINT to 5236 failed - Killing as fallback
+2023-04-27 18:57:45 - Stopping process 10744
+2023-04-27 18:57:45 - Send SIGINT 10744
+2023-04-27 18:57:45 - SIGINT to 10744 failed - Killing as fallback
+2023-04-27 18:57:45 - Finished drogalesteservermanager.exe
+2023-04-27 18:57:46 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js --file C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Bin\Server.js --scriptoptions= --log "Drogaleste - Server Manager wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-27 18:57:46 - Started 17864
+2023-04-27 18:58:23 - Stopping drogalesteservermanager.exe
+2023-04-27 18:58:23 - ProcessKill 17864
+2023-04-27 18:58:23 - Found child process: 1668 Name: conhost.exe
+2023-04-27 18:58:23 - Found child process: 21500 Name: node.exe
+2023-04-27 18:58:23 - Stopping process 1668
+2023-04-27 18:58:23 - Send SIGINT 1668
+2023-04-27 18:58:23 - SIGINT to 1668 failed - Killing as fallback
+2023-04-27 18:58:23 - Stopping process 21500
+2023-04-27 18:58:23 - Send SIGINT 21500
+2023-04-27 18:58:23 - SIGINT to 21500 failed - Killing as fallback
+2023-04-27 18:58:23 - Stopping process 17864
+2023-04-27 18:58:23 - Send SIGINT 17864
+2023-04-27 18:58:23 - SIGINT to 17864 failed - Killing as fallback
+2023-04-27 18:58:23 - Finished drogalesteservermanager.exe
+2023-04-27 18:58:26 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js --file C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Bin\Server.js --scriptoptions= --log "Drogaleste - Server Manager wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-27 18:58:26 - Started 18644
+2023-04-27 19:07:32 - Stopping drogalesteservermanager.exe
+2023-04-27 19:07:32 - ProcessKill 18644
+2023-04-27 19:07:32 - Found child process: 15000 Name: conhost.exe
+2023-04-27 19:07:32 - Found child process: 9460 Name: node.exe
+2023-04-27 19:07:33 - Stopping process 15000
+2023-04-27 19:07:33 - Send SIGINT 15000
+2023-04-27 19:07:33 - SIGINT to 15000 failed - Killing as fallback
+2023-04-27 19:07:33 - Stopping process 9460
+2023-04-27 19:07:33 - Send SIGINT 9460
+2023-04-27 19:07:33 - SIGINT to 9460 failed - Killing as fallback
+2023-04-27 19:07:33 - Stopping process 18644
+2023-04-27 19:07:33 - Send SIGINT 18644
+2023-04-27 19:07:33 - SIGINT to 18644 failed - Killing as fallback
+2023-04-27 19:07:33 - Finished drogalesteservermanager.exe
+2023-04-27 19:07:34 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js --file C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Bin\Server.js --scriptoptions= --log "Drogaleste - Server Manager wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-27 19:07:34 - Started 14064
+2023-04-27 19:09:28 - Stopping drogalesteservermanager.exe
+2023-04-27 19:09:28 - ProcessKill 14064
+2023-04-27 19:09:28 - Found child process: 14676 Name: conhost.exe
+2023-04-27 19:09:28 - Found child process: 16496 Name: node.exe
+2023-04-27 19:09:28 - Stopping process 14676
+2023-04-27 19:09:28 - Send SIGINT 14676
+2023-04-27 19:09:28 - SIGINT to 14676 failed - Killing as fallback
+2023-04-27 19:09:28 - Stopping process 16496
+2023-04-27 19:09:28 - Send SIGINT 16496
+2023-04-27 19:09:28 - SIGINT to 16496 failed - Killing as fallback
+2023-04-27 19:09:28 - Stopping process 14064
+2023-04-27 19:09:28 - Send SIGINT 14064
+2023-04-27 19:09:28 - SIGINT to 14064 failed - Killing as fallback
+2023-04-27 19:09:28 - Finished drogalesteservermanager.exe
+2023-04-27 19:09:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js --file C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Bin\Server.js --scriptoptions= --log "Drogaleste - Server Manager wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-27 19:09:29 - Started 10340
+2023-04-27 19:11:59 - Stopping drogalesteservermanager.exe
+2023-04-27 19:11:59 - ProcessKill 10340
+2023-04-27 19:12:00 - Found child process: 20720 Name: conhost.exe
+2023-04-27 19:12:00 - Found child process: 22816 Name: node.exe
+2023-04-27 19:12:00 - Stopping process 20720
+2023-04-27 19:12:00 - Send SIGINT 20720
+2023-04-27 19:12:00 - SIGINT to 20720 failed - Killing as fallback
+2023-04-27 19:12:00 - Found child process: 6448 Name: cmd.exe
+2023-04-27 19:12:00 - Found child process: 15676 Name: cmd.exe
+2023-04-27 19:12:00 - Stopping process 6448
+2023-04-27 19:12:00 - Process 6448 is already stopped
+2023-04-27 19:12:01 - Stopping process 15676
+2023-04-27 19:12:01 - Process 15676 is already stopped
+2023-04-27 19:12:01 - Stopping process 22816
+2023-04-27 19:12:01 - Send SIGINT 22816
+2023-04-27 19:12:01 - SIGINT to 22816 failed - Killing as fallback
+2023-04-27 19:12:01 - Stopping process 10340
+2023-04-27 19:12:01 - Send SIGINT 10340
+2023-04-27 19:12:01 - SIGINT to 10340 failed - Killing as fallback
+2023-04-27 19:12:01 - Finished drogalesteservermanager.exe
+2023-04-27 19:12:01 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js --file C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Bin\Server.js --scriptoptions= --log "Drogaleste - Server Manager wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-27 19:12:01 - Started 19500
+2023-04-27 19:18:04 - Stopping drogalesteservermanager.exe
+2023-04-27 19:18:04 - ProcessKill 19500
+2023-04-27 19:18:04 - Found child process: 23772 Name: conhost.exe
+2023-04-27 19:18:04 - Found child process: 11168 Name: node.exe
+2023-04-27 19:18:04 - Stopping process 23772
+2023-04-27 19:18:05 - Send SIGINT 23772
+2023-04-27 19:18:05 - SIGINT to 23772 failed - Killing as fallback
+2023-04-27 19:18:05 - Found child process: 5396 Name: snoretoast-x64.exe
+2023-04-27 19:18:05 - Found child process: 7116 Name: snoretoast-x64.exe
+2023-04-27 19:18:05 - Stopping process 5396
+2023-04-27 19:18:05 - Send SIGINT 5396
+2023-04-27 19:18:05 - SIGINT to 5396 failed - Killing as fallback
+2023-04-27 19:18:05 - Stopping process 7116
+2023-04-27 19:18:05 - Send SIGINT 7116
+2023-04-27 19:18:05 - SIGINT to 7116 failed - Killing as fallback
+2023-04-27 19:18:05 - Stopping process 11168
+2023-04-27 19:18:05 - Send SIGINT 11168
+2023-04-27 19:18:05 - SIGINT to 11168 failed - Killing as fallback
+2023-04-27 19:18:05 - Stopping process 19500
+2023-04-27 19:18:05 - Send SIGINT 19500
+2023-04-27 19:18:05 - SIGINT to 19500 failed - Killing as fallback
+2023-04-27 19:18:05 - Finished drogalesteservermanager.exe
+2023-04-27 19:22:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js --file C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Bin\Server.js --scriptoptions= --log "Drogaleste - Server Manager wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-27 19:22:11 - Started 16880
+2023-04-27 19:28:57 - Stopping drogalesteservermanager.exe
+2023-04-27 19:28:57 - ProcessKill 16880
+2023-04-27 19:28:57 - Found child process: 11492 Name: conhost.exe
+2023-04-27 19:28:57 - Found child process: 18000 Name: node.exe
+2023-04-27 19:28:58 - Stopping process 11492
+2023-04-27 19:28:58 - Send SIGINT 11492
+2023-04-27 19:28:58 - SIGINT to 11492 failed - Killing as fallback
+2023-04-27 19:28:58 - Found child process: 10452 Name: snoretoast-x64.exe
+2023-04-27 19:28:58 - Found child process: 7056 Name: snoretoast-x64.exe
+2023-04-27 19:28:58 - Stopping process 10452
+2023-04-27 19:28:58 - Send SIGINT 10452
+2023-04-27 19:28:58 - SIGINT to 10452 failed - Killing as fallback
+2023-04-27 19:28:58 - Stopping process 7056
+2023-04-27 19:28:58 - Send SIGINT 7056
+2023-04-27 19:28:58 - SIGINT to 7056 failed - Killing as fallback
+2023-04-27 19:28:58 - Stopping process 18000
+2023-04-27 19:28:58 - Send SIGINT 18000
+2023-04-27 19:28:58 - SIGINT to 18000 failed - Killing as fallback
+2023-04-27 19:28:58 - Stopping process 16880
+2023-04-27 19:28:58 - Send SIGINT 16880
+2023-04-27 19:28:58 - SIGINT to 16880 failed - Killing as fallback
+2023-04-27 19:28:58 - Finished drogalesteservermanager.exe
+2023-04-27 19:28:59 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js --file C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Bin\Server.js --scriptoptions= --log "Drogaleste - Server Manager wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-27 19:28:59 - Started 13500
+2023-04-27 19:30:04 - Stopping drogalesteservermanager.exe
+2023-04-27 19:30:04 - ProcessKill 13500
+2023-04-27 19:30:04 - Found child process: 17080 Name: conhost.exe
+2023-04-27 19:30:04 - Found child process: 7512 Name: node.exe
+2023-04-27 19:30:04 - Stopping process 17080
+2023-04-27 19:30:04 - Send SIGINT 17080
+2023-04-27 19:30:04 - SIGINT to 17080 failed - Killing as fallback
+2023-04-27 19:30:04 - Found child process: 8112 Name: snoretoast-x64.exe
+2023-04-27 19:30:04 - Found child process: 9848 Name: snoretoast-x64.exe
+2023-04-27 19:30:04 - Stopping process 8112
+2023-04-27 19:30:04 - Send SIGINT 8112
+2023-04-27 19:30:04 - SIGINT to 8112 failed - Killing as fallback
+2023-04-27 19:30:05 - Stopping process 9848
+2023-04-27 19:30:05 - Send SIGINT 9848
+2023-04-27 19:30:05 - SIGINT to 9848 failed - Killing as fallback
+2023-04-27 19:30:05 - Stopping process 7512
+2023-04-27 19:30:05 - Send SIGINT 7512
+2023-04-27 19:30:05 - SIGINT to 7512 failed - Killing as fallback
+2023-04-27 19:30:05 - Stopping process 13500
+2023-04-27 19:30:05 - Send SIGINT 13500
+2023-04-27 19:30:05 - SIGINT to 13500 failed - Killing as fallback
+2023-04-27 19:30:05 - Finished drogalesteservermanager.exe
+2023-04-27 19:30:05 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js --file C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Bin\Server.js --scriptoptions= --log "Drogaleste - Server Manager wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-27 19:30:05 - Started 9952
+2023-04-27 19:52:28 - Stopping drogalesteservermanager.exe
+2023-04-27 19:52:28 - ProcessKill 9952
+2023-04-27 19:52:28 - Found child process: 16496 Name: conhost.exe
+2023-04-27 19:52:28 - Found child process: 21152 Name: node.exe
+2023-04-27 19:52:28 - Stopping process 16496
+2023-04-27 19:52:28 - Send SIGINT 16496
+2023-04-27 19:52:28 - SIGINT to 16496 failed - Killing as fallback
+2023-04-27 19:52:28 - Found child process: 7904 Name: snoretoast-x64.exe
+2023-04-27 19:52:28 - Found child process: 12876 Name: snoretoast-x64.exe
+2023-04-27 19:52:29 - Stopping process 7904
+2023-04-27 19:52:29 - Send SIGINT 7904
+2023-04-27 19:52:29 - SIGINT to 7904 failed - Killing as fallback
+2023-04-27 19:52:29 - Stopping process 12876
+2023-04-27 19:52:29 - Send SIGINT 12876
+2023-04-27 19:52:29 - SIGINT to 12876 failed - Killing as fallback
+2023-04-27 19:52:29 - Stopping process 21152
+2023-04-27 19:52:29 - Send SIGINT 21152
+2023-04-27 19:52:29 - SIGINT to 21152 failed - Killing as fallback
+2023-04-27 19:52:29 - Stopping process 9952
+2023-04-27 19:52:29 - Send SIGINT 9952
+2023-04-27 19:52:29 - SIGINT to 9952 failed - Killing as fallback
+2023-04-27 19:52:29 - Finished drogalesteservermanager.exe
+2023-04-27 19:52:29 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js --file C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Bin\Server.js --scriptoptions= --log "Drogaleste - Server Manager wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-27 19:52:29 - Started 16796
+2023-04-27 19:58:44 - Stopping drogalesteservermanager.exe
+2023-04-27 19:58:44 - ProcessKill 16796
+2023-04-27 19:58:45 - Found child process: 11440 Name: conhost.exe
+2023-04-27 19:58:45 - Found child process: 16432 Name: node.exe
+2023-04-27 19:58:45 - Stopping process 11440
+2023-04-27 19:58:45 - Send SIGINT 11440
+2023-04-27 19:58:45 - SIGINT to 11440 failed - Killing as fallback
+2023-04-27 19:58:45 - Found child process: 13144 Name: snoretoast-x64.exe
+2023-04-27 19:58:45 - Found child process: 3120 Name: snoretoast-x64.exe
+2023-04-27 19:58:45 - Stopping process 13144
+2023-04-27 19:58:45 - Send SIGINT 13144
+2023-04-27 19:58:45 - SIGINT to 13144 failed - Killing as fallback
+2023-04-27 19:58:45 - Stopping process 3120
+2023-04-27 19:58:45 - Send SIGINT 3120
+2023-04-27 19:58:45 - SIGINT to 3120 failed - Killing as fallback
+2023-04-27 19:58:45 - Stopping process 16432
+2023-04-27 19:58:45 - Send SIGINT 16432
+2023-04-27 19:58:45 - SIGINT to 16432 failed - Killing as fallback
+2023-04-27 19:58:45 - Stopping process 16796
+2023-04-27 19:58:45 - Send SIGINT 16796
+2023-04-27 19:58:45 - SIGINT to 16796 failed - Killing as fallback
+2023-04-27 19:58:45 - Finished drogalesteservermanager.exe
+2023-04-27 19:58:46 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js --file C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Bin\Server.js --scriptoptions= --log "Drogaleste - Server Manager wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-27 19:58:46 - Started 16596
+2023-04-27 20:01:02 - Stopping drogalesteservermanager.exe
+2023-04-27 20:01:02 - ProcessKill 16596
+2023-04-27 20:01:02 - Found child process: 6200 Name: conhost.exe
+2023-04-27 20:01:02 - Found child process: 20476 Name: node.exe
+2023-04-27 20:01:02 - Stopping process 6200
+2023-04-27 20:01:02 - Send SIGINT 6200
+2023-04-27 20:01:02 - SIGINT to 6200 failed - Killing as fallback
+2023-04-27 20:01:02 - Stopping process 20476
+2023-04-27 20:01:02 - Send SIGINT 20476
+2023-04-27 20:01:02 - SIGINT to 20476 failed - Killing as fallback
+2023-04-27 20:01:02 - Stopping process 16596
+2023-04-27 20:01:02 - Send SIGINT 16596
+2023-04-27 20:01:02 - SIGINT to 16596 failed - Killing as fallback
+2023-04-27 20:01:02 - Finished drogalesteservermanager.exe
+2023-04-27 20:07:32 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js --file C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Bin\Server.js --scriptoptions= --log "Drogaleste - Server Manager wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-27 20:07:32 - Started 11472
+2023-04-27 20:08:48 - Stopping drogalesteservermanager.exe
+2023-04-27 20:08:48 - ProcessKill 11472
+2023-04-27 20:08:48 - Found child process: 23608 Name: conhost.exe
+2023-04-27 20:08:48 - Found child process: 20968 Name: node.exe
+2023-04-27 20:08:48 - Stopping process 23608
+2023-04-27 20:08:48 - Send SIGINT 23608
+2023-04-27 20:08:48 - SIGINT to 23608 failed - Killing as fallback
+2023-04-27 20:08:48 - Stopping process 20968
+2023-04-27 20:08:48 - Send SIGINT 20968
+2023-04-27 20:08:48 - SIGINT to 20968 failed - Killing as fallback
+2023-04-27 20:08:48 - Stopping process 11472
+2023-04-27 20:08:49 - Send SIGINT 11472
+2023-04-27 20:08:49 - SIGINT to 11472 failed - Killing as fallback
+2023-04-27 20:08:49 - Finished drogalesteservermanager.exe
+2023-04-27 20:08:49 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js --file C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Bin\Server.js --scriptoptions= --log "Drogaleste - Server Manager wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-27 20:08:49 - Started 23700
+2023-04-27 20:10:08 - Stopping drogalesteservermanager.exe
+2023-04-27 20:10:08 - ProcessKill 23700
+2023-04-27 20:10:08 - Found child process: 6200 Name: conhost.exe
+2023-04-27 20:10:08 - Found child process: 20392 Name: node.exe
+2023-04-27 20:10:09 - Stopping process 6200
+2023-04-27 20:10:09 - Send SIGINT 6200
+2023-04-27 20:10:09 - SIGINT to 6200 failed - Killing as fallback
+2023-04-27 20:10:09 - Stopping process 20392
+2023-04-27 20:10:09 - Send SIGINT 20392
+2023-04-27 20:10:09 - SIGINT to 20392 failed - Killing as fallback
+2023-04-27 20:10:09 - Stopping process 23700
+2023-04-27 20:10:09 - Send SIGINT 23700
+2023-04-27 20:10:09 - SIGINT to 23700 failed - Killing as fallback
+2023-04-27 20:10:09 - Finished drogalesteservermanager.exe
+2023-04-27 20:10:10 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js --file C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Bin\Server.js --scriptoptions= --log "Drogaleste - Server Manager wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-27 20:10:10 - Started 20848
+2023-04-27 20:16:55 - Stopping drogalesteservermanager.exe
+2023-04-27 20:16:55 - ProcessKill 20848
+2023-04-27 20:16:56 - Found child process: 21256 Name: conhost.exe
+2023-04-27 20:16:56 - Found child process: 13736 Name: node.exe
+2023-04-27 20:16:56 - Stopping process 21256
+2023-04-27 20:16:56 - Send SIGINT 21256
+2023-04-27 20:16:56 - SIGINT to 21256 failed - Killing as fallback
+2023-04-27 20:16:56 - Stopping process 13736
+2023-04-27 20:16:56 - Send SIGINT 13736
+2023-04-27 20:16:56 - SIGINT to 13736 failed - Killing as fallback
+2023-04-27 20:16:56 - Stopping process 20848
+2023-04-27 20:16:56 - Send SIGINT 20848
+2023-04-27 20:16:56 - SIGINT to 20848 failed - Killing as fallback
+2023-04-27 20:16:56 - Finished drogalesteservermanager.exe
+2023-04-27 20:17:12 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js --file C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Bin\Server.js --scriptoptions= --log "Drogaleste - Server Manager wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-27 20:17:12 - Started 21512
+2023-04-27 20:17:32 - Stopping drogalesteservermanager.exe
+2023-04-27 20:17:32 - ProcessKill 21512
+2023-04-27 20:17:32 - Found child process: 1668 Name: conhost.exe
+2023-04-27 20:17:32 - Found child process: 20692 Name: node.exe
+2023-04-27 20:17:33 - Stopping process 1668
+2023-04-27 20:17:33 - Send SIGINT 1668
+2023-04-27 20:17:33 - SIGINT to 1668 failed - Killing as fallback
+2023-04-27 20:17:33 - Stopping process 20692
+2023-04-27 20:17:33 - Send SIGINT 20692
+2023-04-27 20:17:33 - SIGINT to 20692 failed - Killing as fallback
+2023-04-27 20:17:33 - Stopping process 21512
+2023-04-27 20:17:33 - Send SIGINT 21512
+2023-04-27 20:17:33 - SIGINT to 21512 failed - Killing as fallback
+2023-04-27 20:17:33 - Finished drogalesteservermanager.exe
+2023-04-27 20:19:46 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js --file C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Bin\Server.js --scriptoptions= --log "Drogaleste - Server Manager wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-27 20:19:46 - Started 16896
+2023-04-27 20:34:48 - Stopping drogalesteservermanager.exe
+2023-04-27 20:34:48 - ProcessKill 16896
+2023-04-27 20:34:48 - Found child process: 9576 Name: conhost.exe
+2023-04-27 20:34:48 - Found child process: 13804 Name: node.exe
+2023-04-27 20:34:48 - Stopping process 9576
+2023-04-27 20:34:48 - Send SIGINT 9576
+2023-04-27 20:34:48 - SIGINT to 9576 failed - Killing as fallback
+2023-04-27 20:34:48 - Stopping process 13804
+2023-04-27 20:34:48 - Send SIGINT 13804
+2023-04-27 20:34:48 - SIGINT to 13804 failed - Killing as fallback
+2023-04-27 20:34:48 - Stopping process 16896
+2023-04-27 20:34:48 - Send SIGINT 16896
+2023-04-27 20:34:48 - SIGINT to 16896 failed - Killing as fallback
+2023-04-27 20:34:48 - Finished drogalesteservermanager.exe
+2023-04-27 20:34:49 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js --file C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Bin\Server.js --scriptoptions= --log "Drogaleste - Server Manager wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-27 20:34:49 - Started 24536
+2023-04-27 20:54:12 - Stopping drogalesteservermanager.exe
+2023-04-27 20:54:12 - ProcessKill 24536
+2023-04-27 20:54:13 - Found child process: 23844 Name: conhost.exe
+2023-04-27 20:54:13 - Found child process: 6088 Name: node.exe
+2023-04-27 20:54:13 - Stopping process 23844
+2023-04-27 20:54:13 - Send SIGINT 23844
+2023-04-27 20:54:13 - SIGINT to 23844 failed - Killing as fallback
+2023-04-27 20:54:13 - Stopping process 6088
+2023-04-27 20:54:13 - Send SIGINT 6088
+2023-04-27 20:54:13 - SIGINT to 6088 failed - Killing as fallback
+2023-04-27 20:54:13 - Stopping process 24536
+2023-04-27 20:54:13 - Send SIGINT 24536
+2023-04-27 20:54:13 - SIGINT to 24536 failed - Killing as fallback
+2023-04-27 20:54:13 - Finished drogalesteservermanager.exe
+2023-04-27 20:54:14 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js --file C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Bin\Server.js --scriptoptions= --log "Drogaleste - Server Manager wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-27 20:54:14 - Started 7460
+2023-04-27 20:55:05 - Stopping drogalesteservermanager.exe
+2023-04-27 20:55:05 - ProcessKill 7460
+2023-04-27 20:55:05 - Found child process: 14616 Name: conhost.exe
+2023-04-27 20:55:05 - Found child process: 2696 Name: node.exe
+2023-04-27 20:55:05 - Stopping process 14616
+2023-04-27 20:55:05 - Send SIGINT 14616
+2023-04-27 20:55:05 - SIGINT to 14616 failed - Killing as fallback
+2023-04-27 20:55:05 - Stopping process 2696
+2023-04-27 20:55:05 - Send SIGINT 2696
+2023-04-27 20:55:05 - SIGINT to 2696 failed - Killing as fallback
+2023-04-27 20:55:05 - Stopping process 7460
+2023-04-27 20:55:05 - Send SIGINT 7460
+2023-04-27 20:55:05 - SIGINT to 7460 failed - Killing as fallback
+2023-04-27 20:55:05 - Finished drogalesteservermanager.exe
+2023-04-27 21:20:09 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\node_modules\node-windows\lib\wrapper.js --file C:\Users\junio\DESENVOLVIMENTO\REACTJS\ChatGPT\Server-Manager\Bin\Server.js --scriptoptions= --log "Drogaleste - Server Manager wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-04-27 21:20:09 - Started 8416
